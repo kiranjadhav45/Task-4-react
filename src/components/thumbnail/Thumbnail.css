@@ -1,0 +1,16 @@
+.imagescroll {
+  /* position: fixed;
+
+  overflow-y: scroll;
+  top: 55px;
+  bottom: 50px;
+  background-color: #ffffff; */
+
+  width: 200px;
+  height: 100vh;
+  background-color: #acdbcc;
+  overflow-y: auto;
+}
+.main-image {
+  width: 75%;
+}

@@ -1,0 +1,27 @@
+.weather-container {
+  display: flex;
+  justify-content: center;
+}
+.weather {
+  max-width: 600px;
+  width: 100%;
+}
+
+.date {
+  text-align: center;
+}
+.main-containt {
+  background-color: #ffffff;
+}
+.current-weather {
+  display: flex;
+  justify-content: space-between;
+}
+.current-weather span {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+.sunicon span {
+  font-weight: 700;
+  font-size: 2rem;
+}
